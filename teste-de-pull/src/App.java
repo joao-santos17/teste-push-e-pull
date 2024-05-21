@@ -3,5 +3,6 @@ public class App {
         System.out.println("Hello, World!");
         System.out.println("Teste de Push");
         System.out.println("Novo teste de Push");
+        System.out.println("mais um teste de Push");
     }
 }
